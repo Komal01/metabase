@@ -10,13 +10,13 @@ Metabase is the easy, open source way for everyone in your company to ask questi
 
 # Features
 - 5 minute [setup](http://metabase.com/docs/latest/setting-up-metabase.html) (We're not kidding)
-- Let anyone on your team [ask questions](http://metabase.com/docs/latest/users-guide/04-asking-questions.html) without knowing SQL
-- Rich beautiful [dashboards](http://metabase.com/docs/latest/users-guide/06-sharing-answers.html) with auto refresh and fullscreen
-- SQL Mode for analysts and data pros
-- Create canonical [segments and metrics](http://metabase.com/docs/latest/administration-guide/07-segments-and-metrics.html) for your team to use
+- Let anyone on your team [ask questions](http://metabase.com/docs/latest/users-guide/04-asking-questions.html) without knowing SQL.
+- Rich beautiful [dashboards](http://metabase.com/docs/latest/users-guide/06-sharing-answers.html) with auto refresh and fullscreen.
+- SQL Mode for analysts and data pros.
+- Create canonical [segments and metrics](http://metabase.com/docs/latest/administration-guide/07-segments-and-metrics.html) for your team to use.
 - Send data to Slack or email on a schedule with [Pulses](http://metabase.com/docs/latest/users-guide/10-pulses.html)
 - View data in Slack anytime with [MetaBot](http://metabase.com/docs/latest/users-guide/11-metabot.html)
-- [Humanize data](http://metabase.com/docs/latest/administration-guide/03-metadata-editing.html) for your team by renaming, annotating and hiding fields
+- [Humanize data](http://metabase.com/docs/latest/administration-guide/03-metadata-editing.html) for your team by renaming, annotating and hiding fields.
 
 For more information check out [metabase.com](http://www.metabase.com)
 
@@ -40,7 +40,7 @@ Don't see your favorite database? File an issue to let us know.
 
 ## Installation
 
-Metabase can be run just about anywhere so checkout our [Installation Guides](http://www.metabase.com/docs/latest/operations-guide/start.html#installing-and-running-metabase) for detailed instructions for various deployments.  Here's the TLDR:
+Metabase can be run just about anywhere. So, checkout our [Installation Guides](http://www.metabase.com/docs/latest/operations-guide/start.html#installing-and-running-metabase) for detailed instructions for various deployments.  Here's the TLDR:
 
 ### Docker
 
@@ -52,7 +52,7 @@ docker run -d -p 3000:3000 --name metabase metabase/metabase
 
 ### JVM Jar
 
-To run the jar you will need to have a Java Runtime installed. As a quick check to see if you system already has one, try
+To run the jar, you will need to have a Java Runtime installed. As a quick check to see if you system already has one, try
 
 ```sh
 java -version
@@ -74,7 +74,7 @@ Go to the [Metabase Download Page](http://www.metabase.com/start/) and download 
 java -jar metabase.jar
 ```
 
-Now, open a browser and go to [http://localhost:3000](http://localhost:3000) , and you will be asked a set of questions that will set up a user account, and then you can add a database connection. For this to work you will need to get some information about which database you want to connect to, such as the Host Name and Port that it is running on, the Database Name and the User and Password that you will be using.
+Now, open a browser and go to [http://localhost:3000](http://localhost:3000) , and you will be asked a set of questions that will set up a user account, and then you can add a database connection. For this to work, you will need to get some information about which database you want to connect to, such as the Host Name and Port that it is running on, the Database Name and the User and Password that you will be using.
 
 Once you have added this connection, you will be taken into the app and you'll be ready to ask your first question.
 
@@ -99,7 +99,7 @@ Then take a look at our [Contribution Guide](docs/contributing.md) for informati
 Talk to other contributors [in our Gitter room](https://gitter.im/metabase/metabase).
 
 # Internationalization
-We want Metabase to be avaliable in as many languages as possible. See what translations are avaliable and help contribute to internationalization using our project [over at POEditor](https://poeditor.com/join/project/ynjQmwSsGh)
+We want Metabase to be available in as many languages as possible. See what translations are avaliable and help contribute to internationalization using our project [over at POEditor](https://poeditor.com/join/project/ynjQmwSsGh)
 
 # Extending and Deep Integrations
 
