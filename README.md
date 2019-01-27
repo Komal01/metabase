@@ -14,8 +14,8 @@ Metabase is the easy, open source way for everyone in your company to ask questi
 - Rich beautiful [dashboards](http://metabase.com/docs/latest/users-guide/06-sharing-answers.html) with auto refresh and fullscreen.
 - SQL Mode for analysts and data pros.
 - Create canonical [segments and metrics](http://metabase.com/docs/latest/administration-guide/07-segments-and-metrics.html) for your team to use.
-- Send data to Slack or email on a schedule with [Pulses](http://metabase.com/docs/latest/users-guide/10-pulses.html)
-- View data in Slack anytime with [MetaBot](http://metabase.com/docs/latest/users-guide/11-metabot.html)
+- Send data to Slack or email on a schedule with [Pulses](http://metabase.com/docs/latest/users-guide/10-pulses.html).
+- View data in Slack anytime with [MetaBot](http://metabase.com/docs/latest/users-guide/11-metabot.html).
 - [Humanize data](http://metabase.com/docs/latest/administration-guide/03-metadata-editing.html) for your team by renaming, annotating and hiding fields.
 
 For more information check out [metabase.com](http://www.metabase.com)
